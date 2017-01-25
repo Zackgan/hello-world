@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+
+Hello Lads !
+
+Today i want to try to program something because i want to be a programmer and because my major wants me to learn a thing or two about programming
